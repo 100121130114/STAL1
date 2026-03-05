@@ -1,5 +1,5 @@
 # STAL1
-STAL1. STA.k L.anguage . Programming language with staks.
+STAL1. STA.ck L.anguage . Programming language with stacks.
 
 # BASIC ATOMS
 .Numero
